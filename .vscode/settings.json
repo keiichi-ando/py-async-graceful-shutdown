@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": ".venv/bin/python",
+
+  "terminal.integrated.defaultProfile.linux": {
+    "bash": {
+      "args": ["--rcfile", ".venv/bin/activate"]
+    }
+  }
+}
